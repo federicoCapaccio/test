@@ -1,3 +1,6 @@
 [submodule "scar"]
 	path = scar
 	url = git@github.com:grycap/scar.git
+[submodule "RestoreServer"]
+	path = RestoreServer
+	url = git@github.com:MattiaCalabrese/RestoreServer.git

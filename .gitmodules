@@ -1,0 +1,3 @@
+[submodule "scar"]
+	path = scar
+	url = git@github.com:grycap/scar.git

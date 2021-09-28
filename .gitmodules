@@ -7,3 +7,12 @@
 [submodule "oscar"]
 	path = oscar
 	url = git@github.com:grycap/oscar.git
+[submodule "im"]
+	path = im
+	url = git@github.com:grycap/im.git
+[submodule "ec3"]
+	path = ec3
+	url = git@github.com:grycap/ec3.git
+[submodule "compss"]
+	path = compss
+	url = git@github.com:bsc-wdc/compss.git

@@ -4,3 +4,6 @@
 [submodule "RestoreServer"]
 	path = RestoreServer
 	url = git@github.com:MattiaCalabrese/RestoreServer.git
+[submodule "oscar"]
+	path = oscar
+	url = git@github.com:grycap/oscar.git
